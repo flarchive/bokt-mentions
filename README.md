@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of bokt/mentions.** Not for installation: use [Packagist](https://packagist.org/packages/bokt/mentions) or the [upstream repository](https://github.com/Bokt/mentions).
 
-**0** versions archived · Latest: [`v0.1.0-beta.12`](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.12) · License: `MIT` · Flarum: `^0.1.0-beta.12`
+**9** versions archived · Latest: [`v0.1.0-beta.12`](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.12) · License: `MIT` · Flarum: `^0.1.0-beta.12`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.10` | 2019-09-16 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.10) |
+| `v0.1.0-beta.12` | 2020-03-03 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.12) |
+| `v0.1.0-beta.3` | 2015-11-02 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2016-10-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.6) |
+| `v0.1.0-beta.7` | 2017-06-28 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.7) |
+| `v0.1.0-beta.8` | 2018-11-27 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.8) |
+| `v0.1.0-beta.8.1` | 2018-12-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.8.1) |
+| `v0.1.0-beta.9` | 2019-06-24 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/bokt-mentions/tree/archive/v0.1.0-beta.9) |
 
 Catalog entry: [packages/bokt-mentions.json](https://github.com/flarchive/archive-index/blob/main/packages/bokt-mentions.json)
 
